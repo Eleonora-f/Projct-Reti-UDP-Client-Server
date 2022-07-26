@@ -1,15 +1,15 @@
 # Projct-Reti-UDP-Client-Server
 
-##Description
+#Description
 This project refers to file transfer between Client and Server using UDP protocol. 
 
-##License
+#License
 MIT license.
 
-##Authors
+#Authors
 *[@nuxbart](https://github.com/nuxbart)
 *[@Eleonora-f](https://github.com/Eleonora-f)
 
-##Contacts
+#Contacts
 *[@nuxbart](anna.bartolucci@studio.unibo.it)
 *[@Eleonora-f](eleonora.falconi@studio.unibo.it)
