@@ -11,5 +11,5 @@ MIT license.
 * [@Eleonora-f](https://github.com/Eleonora-f)
 
 ## Contacts
-* [@nuxbart](anna.bartolucci@studio.unibo.it)
-* [@Eleonora-f](eleonora.falconi@studio.unibo.it)
+anna.bartolucci@studio.unibo.it
+eleonora.falconi@studio.unibo.it
